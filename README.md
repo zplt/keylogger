@@ -1,0 +1,1 @@
+This keylogger.py file only for educational and ethical purpose do not use this script in not legal purpose
